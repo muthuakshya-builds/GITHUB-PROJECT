@@ -1,0 +1,3 @@
+My First GitHub Project
+This is my sample text file.
+I am learning how to upload files to GitHub.
