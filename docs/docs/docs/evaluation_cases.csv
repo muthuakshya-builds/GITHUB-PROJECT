@@ -1,0 +1,6 @@
+case_id,entry,expected_status,expected_cleaned_phone
+T01,"Name: Priya K, ph 98400 12345, email PRIYA.K@gmail.com, 2nd year CSE",valid,9840012345
+T02,"Name: Arun Kumar | 9876543210 | arun.kumar@yahoo.com | III year ECE",valid,9876543210
+T03,"Name: Suresh K, phone 987654321, email suresh.k@gmail.com, 3rd year IT",needs_fix,
+T04,"Name: Fathima A, phone 9876500000, email fathima at gmail dot com, 2nd year ECE",needs_fix,9876500000
+T05,"Name: Priya K, phone 9840012345, email priya.k@gmail.com, 2nd year CSE",duplicate,9840012345
