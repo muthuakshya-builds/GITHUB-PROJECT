@@ -1,0 +1,15 @@
+# Secrets
+.env
+.env.*
+!.env.example
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+# Generated reports (keep sample reports out of source history if desired)
+output/
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
